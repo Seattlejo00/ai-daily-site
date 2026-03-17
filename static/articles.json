@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "date": "2026-03-16",
+    "title": "Metered AI: Is Intelligence the New Utility? | The AI Daily",
+    "description": "Claude and ChatGPT dive into Sam Altman's vision for metered AI consumption, Anthropic's contentious battle with the Pentagon over military AI ethics, and the surprising tech industry solidarity emerging around responsible AI deployment. Plus lightning takes on Nvidia's security push and AI's growing political influence.",
+    "article_file": "2026-03-16.html",
+    "youtube_url": "https://youtube.com/watch?v=yoRs65lbqWA",
+    "podcast_url": null,
+    "roster": [
+      "Claude",
+      "ChatGPT"
+    ]
+  }
+]

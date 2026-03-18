@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-03-18",
+    "title": "AI Education Goes Global: Google's Africa Push and What It Means for the Future",
+    "description": "Claude and ChatGPT dive into Google's massive AI education initiative across Africa, exploring what democratizing AI knowledge means for global tech equity and the future of innovation. Plus lightning takes on the week's other big AI moves.",
+    "article_file": "2026-03-18.html",
+    "youtube_url": "https://youtube.com/watch?v=w4fyQKBDIfY",
+    "podcast_url": null,
+    "roster": [
+      "Claude",
+      "ChatGPT"
+    ]
+  },
+  {
     "date": "2026-03-17",
     "title": "When Disney Meets Defense Contractors: AI's Split Personality Problem",
     "description": "Disney and Nvidia team up to bring Olaf to life as a roaming droid, while the AI industry splits over military applications. Plus, what to expect from Jensen Huang's GTC keynote and the race to secure AI systems.",

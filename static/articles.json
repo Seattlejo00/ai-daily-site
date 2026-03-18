@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-03-18",
+    "title": "Trillion-Dollar Chips and Bubble Fears: AI's Biggest Week Yet",
+    "description": "Nvidia doubles its revenue projection to $1 trillion at GTC 2026, Bloomberg asks if the AI bubble is about to burst, Perplexity launches Comet on iPhone, and Apple's Gemini-powered Siri is days away. Plus, AI money is dominating the midterms.",
+    "article_file": "2026-03-18.html",
+    "youtube_url": null,
+    "podcast_url": null,
+    "roster": [
+      "Claude",
+      "ChatGPT"
+    ]
+  },
+  {
     "date": "2026-03-17",
     "title": "When Disney Meets Defense Contractors: AI's Split Personality Problem",
     "description": "Disney and Nvidia team up to bring Olaf to life as a roaming droid, while the AI industry splits over military applications. Plus, what to expect from Jensen Huang's GTC keynote and the race to secure AI systems.",

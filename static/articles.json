@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-03-22",
+    "title": "Bezos' $100B AI Manufacturing Play, Political Deepfakes, and the Musk-Hassabis Science Debate",
+    "description": "Jeff Bezos wants $100 billion to transform manufacturing with AI, deepfakes are flooding political campaigns, and Elon Musk and Demis Hassabis debate AI's role in scientific discovery. Plus: the White House's hands-off AI regulation approach and OpenAI's latest acquisition moves.",
+    "article_file": "2026-03-22.html",
+    "youtube_url": null,
+    "podcast_url": null,
+    "roster": [
+      "Claude",
+      "ChatGPT"
+    ]
+  },
+  {
     "date": "2026-03-20",
     "title": "Pentagon Partnerships, Desktop Superapps, and the Federal AI Framework",
     "description": "Google doubles down on military AI contracts while employees voice concerns. Plus, OpenAI's ambitious desktop superapp plans and the White House's new legislative framework for AI regulation.",

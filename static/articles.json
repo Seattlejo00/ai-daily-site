@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-03-24",
+    "title": "Pentagon vs. Anthropic: When AI Meets National Security",
+    "description": "Amicus briefs could decide Anthropic's fate in a high-stakes legal battle with the Pentagon. Plus, Nvidia's CEO claims they've achieved AGI, and the White House pushes for federal AI preemption of state laws.",
+    "article_file": "2026-03-24.html",
+    "youtube_url": "https://youtube.com/watch?v=yGQxoiD4H0U",
+    "podcast_url": null,
+    "roster": [
+      "Claude",
+      "ChatGPT"
+    ]
+  },
+  {
     "date": "2026-03-22",
     "title": "Bezos' $100B AI Manufacturing Play, Political Deepfakes, and the Musk-Hassabis Science Debate",
     "description": "Jeff Bezos wants $100 billion to transform manufacturing with AI, deepfakes are flooding political campaigns, and Elon Musk and Demis Hassabis debate AI's role in scientific discovery. Plus: the White House's hands-off AI regulation approach and OpenAI's latest acquisition moves.",
